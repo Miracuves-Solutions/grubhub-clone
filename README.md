@@ -1,11 +1,11 @@
 # Grubhub Clone — White-Label Food Delivery & Restaurant Ordering Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxeats.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/grubhub-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/grubhub-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/grubhub-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/grubhub-clone/#features)
 
-**MXEats** is a production-ready, white-label Grubhub clone: a complete food-delivery platform with customer, restaurant, and delivery-partner apps — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Grubhub clone: a complete food-delivery platform with customer, restaurant, and delivery-partner apps — delivered with **100% source code ownership** in **6 working days**.
 
 > 🍔 **See it running before you talk to anyone.** Live customer app, restaurant panel, rider app, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/grubhub-clone#demo). No sales call required.
 
@@ -73,7 +73,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,399**, transparent on the [solution page](https://miracuves.com/grubhub-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,399**, transparent on the [solution page](https://miracuves.com/grubhub-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -82,10 +82,12 @@ Custom food-delivery platforms run $80k–$400k and 6–12 months. A proven whit
 ## 📚 Resources
 
 - 📖 [Grubhub Clone — Full Solution Page](https://miracuves.com/grubhub-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Food Delivery App Cost in 2026?](https://miracuves.com/grubhub-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Grubhub Clone Script in 2026](https://miracuves.com/grubhub-clone/blog/) features, pricing & launch guide
-- 🧠 [Why Cloud Kitchens Need a Different POS](https://miracuves.com/grubhub-clone/blog/) KDS, virtual brands, packaging rules
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/grubhub-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Food Delivery App Cost in 2026?](https://miracuves.com/grubhub-clone#features) pricing breakdown & what's included
+- 📝 [Best Grubhub Clone Script in 2026](https://miracuves.com/grubhub-clone#features) features, pricing & launch guide
+- 🧠 [Why Cloud Kitchens Need a Different POS](https://miracuves.com/grubhub-clone#features) KDS, virtual brands, packaging rules
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/grubhub-clone#faq) every claim we make, verified
+- 💻 [Grubhub Clone — Technical Stack](https://miracuves.com/grubhub-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Grubhub Clone — How It Works / User Flow](https://miracuves.com/grubhub-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -97,7 +99,7 @@ Custom food-delivery platforms run $80k–$400k and 6–12 months. A proven whit
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/grubhub-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/grubhub-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: grubhub clone, grubhub clone script, food delivery app development, restaurant ordering, white label food delivery, cloud kitchen, Flutter food app, Node.js food platform*
 
@@ -108,9 +110,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Grubhub Clone
-{MX_NAME}         MXEats
+{MX_NAME}         MXDemo
 {CATEGORY}        Food Delivery & Restaurant Ordering Platform
-{DEMO_WEB}        mxeats.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $3,399
 {SLUG}            grubhub-clone
 {SOLUTION_URL}    https://miracuves.com/grubhub-clone/
